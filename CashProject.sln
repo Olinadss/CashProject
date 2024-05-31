@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashProject.Api", "CashProject.Api\CashProject.Api.csproj", "{EF3A177B-4F88-4485-AE7B-9483C4982121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashProject.Domain", "CashProject.Domain\CashProject.Domain.csproj", "{205E3ED4-7B48-4923-B573-C8930C63B496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashProject.Application", "CashProject.Application\CashProject.Application.csproj", "{08FE8506-B7A6-4CC8-8A94-B91CCC85C765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashProject.Communication", "CashProject.Communication\CashProject.Communication.csproj", "{038E8316-F20F-46CD-B36C-45571BD758C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashProject.Exception", "CashProject.Exception\CashProject.Exception.csproj", "{365E61F5-5A69-4D15-8A83-CCBD35B6FC7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashProject.Infra", "CashProject.Infra\CashProject.Infra.csproj", "{69EC2CDE-CCD1-4625-8DA1-550B88CCF56A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF3A177B-4F88-4485-AE7B-9483C4982121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3A177B-4F88-4485-AE7B-9483C4982121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3A177B-4F88-4485-AE7B-9483C4982121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3A177B-4F88-4485-AE7B-9483C4982121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{205E3ED4-7B48-4923-B573-C8930C63B496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205E3ED4-7B48-4923-B573-C8930C63B496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205E3ED4-7B48-4923-B573-C8930C63B496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205E3ED4-7B48-4923-B573-C8930C63B496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08FE8506-B7A6-4CC8-8A94-B91CCC85C765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08FE8506-B7A6-4CC8-8A94-B91CCC85C765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08FE8506-B7A6-4CC8-8A94-B91CCC85C765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08FE8506-B7A6-4CC8-8A94-B91CCC85C765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{038E8316-F20F-46CD-B36C-45571BD758C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038E8316-F20F-46CD-B36C-45571BD758C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038E8316-F20F-46CD-B36C-45571BD758C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038E8316-F20F-46CD-B36C-45571BD758C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365E61F5-5A69-4D15-8A83-CCBD35B6FC7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365E61F5-5A69-4D15-8A83-CCBD35B6FC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365E61F5-5A69-4D15-8A83-CCBD35B6FC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365E61F5-5A69-4D15-8A83-CCBD35B6FC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69EC2CDE-CCD1-4625-8DA1-550B88CCF56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69EC2CDE-CCD1-4625-8DA1-550B88CCF56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69EC2CDE-CCD1-4625-8DA1-550B88CCF56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69EC2CDE-CCD1-4625-8DA1-550B88CCF56A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9A0B12E-1D71-4DA9-93F3-E2AD349D7BA5}
+	EndGlobalSection
+EndGlobal

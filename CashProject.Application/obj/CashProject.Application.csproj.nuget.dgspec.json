@@ -1,0 +1,238 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Application\\CashProject.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Application\\CashProject.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Application\\CashProject.Application.csproj",
+        "projectName": "CashProject.Application",
+        "projectPath": "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Application\\CashProject.Application.csproj",
+        "packagesPath": "C:\\Users\\dsouza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dsouza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Communication\\CashProject.Communication.csproj": {
+                "projectPath": "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Communication\\CashProject.Communication.csproj"
+              },
+              "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Domain\\CashProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Domain\\CashProject.Domain.csproj"
+              },
+              "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Exception\\CashProject.Exception.csproj": {
+                "projectPath": "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Exception\\CashProject.Exception.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Communication\\CashProject.Communication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Communication\\CashProject.Communication.csproj",
+        "projectName": "CashProject.Communication",
+        "projectPath": "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Communication\\CashProject.Communication.csproj",
+        "packagesPath": "C:\\Users\\dsouza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Communication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dsouza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Domain\\CashProject.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Domain\\CashProject.Domain.csproj",
+        "projectName": "CashProject.Domain",
+        "projectPath": "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Domain\\CashProject.Domain.csproj",
+        "packagesPath": "C:\\Users\\dsouza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dsouza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Exception\\CashProject.Exception.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Exception\\CashProject.Exception.csproj",
+        "projectName": "CashProject.Exception",
+        "projectPath": "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Exception\\CashProject.Exception.csproj",
+        "packagesPath": "C:\\Users\\dsouza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dsouza\\Documents\\Projetos\\Estudos\\dotnet\\CashProject\\CashProject.Exception\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dsouza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
